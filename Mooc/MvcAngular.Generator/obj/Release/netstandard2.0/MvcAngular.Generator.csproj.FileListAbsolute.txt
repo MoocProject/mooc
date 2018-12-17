@@ -1,0 +1,9 @@
+D:\GitHub\MediGraph\MvcAngular.Generator\bin\Release\netstandard2.0\MvcAngular.Generator.deps.json
+D:\GitHub\MediGraph\MvcAngular.Generator\bin\Release\netstandard2.0\MvcAngular.Generator.dll
+D:\GitHub\MediGraph\MvcAngular.Generator\bin\Release\netstandard2.0\MvcAngular.Generator.pdb
+D:\GitHub\MediGraph\MvcAngular.Generator\obj\Release\netstandard2.0\MvcAngular.Generator.csprojAssemblyReference.cache
+D:\GitHub\MediGraph\MvcAngular.Generator\obj\Release\netstandard2.0\MvcAngular.Generator.csproj.CoreCompileInputs.cache
+D:\GitHub\MediGraph\MvcAngular.Generator\obj\Release\netstandard2.0\MvcAngular.Generator.AssemblyInfoInputs.cache
+D:\GitHub\MediGraph\MvcAngular.Generator\obj\Release\netstandard2.0\MvcAngular.Generator.AssemblyInfo.cs
+D:\GitHub\MediGraph\MvcAngular.Generator\obj\Release\netstandard2.0\MvcAngular.Generator.dll
+D:\GitHub\MediGraph\MvcAngular.Generator\obj\Release\netstandard2.0\MvcAngular.Generator.pdb

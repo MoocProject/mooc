@@ -1,0 +1,14 @@
+E:\Project\Mooc\Mooc\Mooc\obj\Debug\netcoreapp2.1\Mooc.csproj.CoreCompileInputs.cache
+E:\Project\Mooc\Mooc\Mooc\obj\Debug\netcoreapp2.1\Mooc.RazorAssemblyInfo.cache
+E:\Project\Mooc\Mooc\Mooc\obj\Debug\netcoreapp2.1\Mooc.RazorAssemblyInfo.cs
+E:\Project\Mooc\Mooc\Mooc\obj\Debug\netcoreapp2.1\Mooc.AssemblyInfoInputs.cache
+E:\Project\Mooc\Mooc\Mooc\obj\Debug\netcoreapp2.1\Mooc.AssemblyInfo.cs
+E:\Project\Mooc\Mooc\Mooc\obj\Debug\netcoreapp2.1\Mooc.RazorTargetAssemblyInfo.cache
+E:\Project\Mooc\Mooc\Mooc\bin\Debug\netcoreapp2.1\Mooc.deps.json
+E:\Project\Mooc\Mooc\Mooc\bin\Debug\netcoreapp2.1\Mooc.runtimeconfig.json
+E:\Project\Mooc\Mooc\Mooc\bin\Debug\netcoreapp2.1\Mooc.runtimeconfig.dev.json
+E:\Project\Mooc\Mooc\Mooc\bin\Debug\netcoreapp2.1\Mooc.dll
+E:\Project\Mooc\Mooc\Mooc\bin\Debug\netcoreapp2.1\Mooc.pdb
+E:\Project\Mooc\Mooc\Mooc\obj\Debug\netcoreapp2.1\Mooc.dll
+E:\Project\Mooc\Mooc\Mooc\obj\Debug\netcoreapp2.1\Mooc.pdb
+E:\Project\Mooc\Mooc\Mooc\obj\Debug\netcoreapp2.1\Mooc.csprojAssemblyReference.cache
